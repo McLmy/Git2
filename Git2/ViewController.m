@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     //分页
     //再试试
+    NSLog(@"打印");
 }
 
 - (void)didReceiveMemoryWarning {
